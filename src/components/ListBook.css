@@ -1,0 +1,86 @@
+.list_book {
+  background-color: #ffff;
+  border-radius: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 561px;
+  margin: 25px 0px;
+}
+.book_itemsbacl {
+  background-color: black;
+  margin: 10px 10px;
+  height: auto;
+  width: 239px;
+  border-radius: inherit;
+}
+.book_items {
+  background-color: #e7dfdf;
+  margin: 10px 10px;
+  height: auto;
+  width: 239px;
+  border-radius: inherit;
+  padding: 0px 10px;
+}
+.title {
+  text-decoration: underline;
+}
+.bookdetalis {
+  line-height: 25px;
+  margin-top: 0.5px;
+}
+.nodata {
+  line-height: 100px;
+}
+.confirmation_delete {
+  min-width: 240px;
+  margin-top: -80px;
+}
+.delete_text {
+  color: #ffff;
+}
+.cancle_delete {
+  margin: 10px;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid black;
+}
+.cancle_delete:hover{
+    color: #FFFF;
+    background-color: rgb(213, 66, 66);
+}
+.cancle_delete1{
+  margin: 10px;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid black;
+}
+.cancle_delete1:hover{
+    color: #FFFF;
+    background-color:blue;
+}
+.edit_btn1 {
+    /* margin: 10px; */
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+.edit_btn1:hover {
+    color: #FFFF;
+    background-color: rgb(213, 66, 66);
+}
+.edit_btn2{
+    margin: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    border: 1px solid black;
+
+}
+.edit_btn2:hover {
+    color: #FFFF;
+    background-color:blue;
+   
+}

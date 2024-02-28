@@ -1,0 +1,42 @@
+.from {
+  margin: 30px 70px 0px 0px;
+}
+.label {
+
+  margin-right: 100px;
+  font-size: 16px;
+
+
+}
+.input {
+ 
+  width: 262px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+.submit{
+  
+    width: 262px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: black;
+    color: #FFFF;
+    cursor: pointer;
+    margin-top: 10px;
+    border: none;
+
+}
+.submit:disabled{
+ 
+ 
+    width: 262px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: rgb(182, 173, 173);
+    color: #FFFF;
+    cursor: pointer;
+    margin-top: 10px;
+}
